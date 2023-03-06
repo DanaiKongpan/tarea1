@@ -13,3 +13,5 @@ Un buen asset para su empresa
 | Chile | 1 |
 | Perú | 2 |
 
+# Lista de alias
+| ll= 'ls -l' | rm= 'rm -i' | cp= 'cp -i' |
