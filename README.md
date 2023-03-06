@@ -14,4 +14,6 @@ Un buen asset para su empresa
 | Perú | 2 |
 
 # Lista de alias
-| ll= 'ls -l' | rm= 'rm -i' | cp= 'cp -i' |
+```bash
+| ls -l | 'rm -i' |  
+```
